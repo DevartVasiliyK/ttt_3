@@ -1,3 +1,0 @@
-﻿CREATE USER [stephen0]
-  WITHOUT LOGIN
-GO
